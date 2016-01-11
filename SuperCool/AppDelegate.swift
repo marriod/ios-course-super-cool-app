@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SuperCool
 //
-//  Created by Mark Price on 7/27/15.
-//  Copyright © 2015 devslopes. All rights reserved.
+//  Created by Dean Marriott on 12/01/15 as part of the ios developer course.
+//  Copyright © 2015 gizmu. All rights reserved.
 //
 
 import UIKit
